@@ -1,0 +1,12 @@
+body {
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; }
+  body div {
+    width: 300px;
+    height: 200px;
+    background-color: white; }
+
+/*# sourceMappingURL=main.css.map */
